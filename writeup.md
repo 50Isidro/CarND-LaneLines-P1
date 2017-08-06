@@ -2,6 +2,10 @@
 
 ## Writeup
 
+[//]: # (Image References)
+
+[image1]: ./examples/grayscale.jpg "Grayscale"
+
 ---
 
 **Introduction and goals**
@@ -15,14 +19,9 @@ The pipeline shall then be tested on:
 * 2 test videos
 * 1 optional more challenging test video
 
-This Writeup includes a description of the pipeline and a reflection on shortcomings and potential solutions
+This Writeup includes a description of the pipeline and a reflection on shortcomings and potential solutions.
 
 ---
-
-
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
 
 ### Reflection
 
