@@ -1,23 +1,28 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+## Writeup
 
 ---
 
-**Finding Lane Lines on the Road**
+**Introduction and goals**
 
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
+This project is part of Term 1 in Udacity's Self-Driving Car Nanodegree Program. 
+
+The goal is to use some basic computer vision algorithms to build a pipeline able to find lane markings on the road. This pipeline shall be able to process a car front-view image, finding the markings of the lane being driven, and returning the same image with the lane lines evidently marked.
+
+The pipeline shall then be tested on:
+* 6 test images
+* 2 test videos
+* 1 optional more challenging test video
+
+This Writeup includes a description of the pipeline and a reflection on shortcomings and potential solutions
+
+---
 
 
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-
----
 
 ### Reflection
 
